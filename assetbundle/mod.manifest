@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 4213042572
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e21cd7136f47f069b95a6aaa94be83f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f47e5080155a0c3ac2e9ffbbc14e366d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_left_c_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_left_a_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_mid_a_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_right_b_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHill_mid_b.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_right_a_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_mid_b_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_left_b_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_left_a_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_mid_c_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_right_c_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkCorner_right_b.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_left_c_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHill_left_c.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHill_left_a.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_right_b_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_right_c_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkSupportPole.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_mid_b_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_mid_c_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkCorner_left_b.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_right_c_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkSupport.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_left_b_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHill_mid_c.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_right_b_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHill_right_a.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_mid_a_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkEmergencyExit.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_mid_b_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlat_right_a.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHill_mid_a.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlat_mid_a.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_right_c_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_left_a_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_mid_a_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_left_b_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_right_a_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_left_a_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_left_c_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_right_b_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_left_c_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_right_a_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_right_a_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkCorner_left_a.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHill_right_c.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_left_b_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHilltoFlat_mid_c_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_mid_c_short.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHill_left_b.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkCorner_right_a.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkHill_right_b.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFence.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_mid_a_long.prefab
+- Assets/Mods/Catwalks/Catwalks@CatwalkFlattoHill_mid_b_long.prefab
+Dependencies: []
